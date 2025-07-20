@@ -1,0 +1,9 @@
+train: C:\Users\ma.aldawsari\Documents\workspace\Datasets\weapons 1\weapons\weapon_detection\train\images
+val: C:\Users\ma.aldawsari\Documents\workspace\Datasets\weapons 1\weapons\weapon_detection\val\images
+test: C:\Users\ma.aldawsari\Documents\workspace\Datasets\weapons 1\weapons\test\test
+
+# number of classes
+nc: 9
+
+# class names
+names: ['Automatic Rifle', 'Bazooka', 'Grenade Launcher', 'Handgun', 'Knife', 'Shotgun', 'SMG', 'Sniper', 'Sword']
